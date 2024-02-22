@@ -65,7 +65,6 @@
         </nav>
       </header>
     </section>
-
     <main>
       <!--Banner section-->
       <section class="head-section">
@@ -89,7 +88,6 @@
           </div>
         </div>
       </section>
-
       <!--Woman collection section-->
       <section id="products" class="container mt-5">
         <h1>Woman Jacket</h1>
@@ -178,7 +176,6 @@
           </div>
         </div>
       </section>
-
       <!--Men collection section-->
       <section class="container mt-5">
         <h1 class="penguin-catagory">Woman Jacket</h1>
@@ -268,7 +265,6 @@
           </div>
         </div>
       </section>
-
       <!--Some information section-->
       <section class="container mt-5 pt-5">
         <div class="pt-2 pb-5 container">
@@ -352,7 +348,6 @@
         </div>
       </section>
     </main>
-
     <!--Footer section-->
     <section class="footer-section">
       <div class="container pb-5">
